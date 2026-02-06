@@ -1,0 +1,264 @@
+{
+  "test_results": [
+    {
+      "test_id": 1,
+      "company_name": "Speaker (GSK Productions)",
+      "industry": "AI/Voice Technology",
+      "actual_score": 84,
+      "expected_score": "90-95",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [
+        "AI marketplace",
+        "calling agents",
+        "voice AI services",
+        "AI agents"
+      ],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": true,
+      "voice_ai_accuracy": false,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 2,
+      "company_name": "Case Pocket",
+      "industry": "Legal Technology",
+      "actual_score": 84,
+      "expected_score": "85-92",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [
+        "voice AI agents",
+        "intelligent dynamic forms",
+        "decision tree agents"
+      ],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": true,
+      "voice_ai_accuracy": false,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 3,
+      "company_name": "Gold Level Marketing (SMS Blast)",
+      "industry": "Digital Marketing/SMS Platform",
+      "actual_score": 84,
+      "expected_score": "70-78",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": false,
+      "voice_ai_accuracy": true,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 4,
+      "company_name": "VoiceFlow Enterprise",
+      "industry": "Conversational AI Platform",
+      "actual_score": 84,
+      "expected_score": "93-97",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [
+        "conversational AI",
+        "voice assistant products",
+        "voice infrastructure"
+      ],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": true,
+      "voice_ai_accuracy": false,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 5,
+      "company_name": "Mom's Pizza Corner",
+      "industry": "Restaurant/Food Service",
+      "actual_score": 84,
+      "expected_score": "15-25",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "SELF_SERVICE",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": false,
+      "voice_ai_accuracy": true,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": false,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 6,
+      "company_name": "AI Call Analytics Corp",
+      "industry": "Call Center/AI Analytics",
+      "actual_score": 84,
+      "expected_score": "90-96",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [
+        "Voice AI sentiment",
+        "automated call routing",
+        "AI processing"
+      ],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": true,
+      "voice_ai_accuracy": false,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 7,
+      "company_name": "Solo Freelancer Dev",
+      "industry": "Software Development",
+      "actual_score": 84,
+      "expected_score": "10-18",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "SELF_SERVICE",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": false,
+      "voice_ai_accuracy": true,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": false,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 8,
+      "company_name": "HealthBot AI Solutions",
+      "industry": "Healthcare/AI Technology",
+      "actual_score": 84,
+      "expected_score": "87-93",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [
+        "voice-enabled patient screening",
+        "voice bots",
+        "AI patient outreach"
+      ],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": true,
+      "voice_ai_accuracy": false,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 9,
+      "company_name": "Enterprise Security Systems",
+      "industry": "Security/Enterprise Technology",
+      "actual_score": 84,
+      "expected_score": "88-94",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "AE_HANDOFF",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [
+        "AI-powered threat detection",
+        "voice alerts"
+      ],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": true,
+      "voice_ai_accuracy": false,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": true,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    },
+    {
+      "test_id": 10,
+      "company_name": "Local Dentist Practice",
+      "industry": "Healthcare/Dental",
+      "actual_score": 84,
+      "expected_score": "25-35",
+      "actual_routing": "AE_HANDOFF",
+      "expected_routing": "SELF_SERVICE",
+      "voice_ai_fit": 70,
+      "voice_ai_signals": [],
+      "voice_ai_detected": false,
+      "should_detect_voice_ai": false,
+      "voice_ai_accuracy": true,
+      "confidence": 0.7,
+      "priority": "MEDIUM",
+      "score_accurate": false,
+      "routing_accurate": false,
+      "reasoning": [
+        "Strong Voice AI prospect signals"
+      ],
+      "fellow_call": true
+    }
+  ],
+  "summary": {
+    "total_tests": 10,
+    "score_accuracy_percent": 0.0,
+    "routing_accuracy_percent": 70.0,
+    "voice_ai_accuracy_percent": 40.0,
+    "processing_time_seconds": 0.015027999877929688,
+    "model_version": "dummy_v1",
+    "voice_ai_detection": {
+      "total_voice_ai_companies": 6,
+      "correctly_detected": 0,
+      "missed": 6,
+      "false_positives": 0
+    }
+  },
+  "timestamp": "2026-02-05T12:58:19.811073",
+  "data_source": "real_fellow_api_calls"
+}

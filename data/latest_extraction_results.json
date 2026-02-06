@@ -1,0 +1,20 @@
+{
+  "extraction_date": "2026-02-06T12:30:00",
+  "extracted_count": 21,
+  "qualified_count": 16, 
+  "total_records": 21,
+  "total_qualified": 16,
+  "qualification_rate": 0.762,
+  "key_findings": {
+    "high_qualification_rate": "76.2% of Telnyx intro calls qualify for Voice AI",
+    "marketing_effectiveness": "Pre-qualification working well",
+    "focus_area": "AE routing optimization vs basic qualification",
+    "voice_ai_threshold": "Consider $2K threshold for Voice AI prospects"
+  },
+  "next_steps": [
+    "Deploy rule-based model immediately",
+    "A/B test against Quinn's 38.8% accuracy", 
+    "Optimize AE handoff processes for qualified prospects",
+    "Collect negative examples for balanced ML training"
+  ]
+}
