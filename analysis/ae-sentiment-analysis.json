@@ -1,0 +1,5046 @@
+{
+  "analysis_summary": {
+    "total_calls": 200,
+    "qualified_count": 111,
+    "qualification_rate": 55.50000000000001,
+    "original_qualified_count": 172,
+    "original_qualification_rate": 86.0,
+    "agreement_rate": 52.5,
+    "analysis_date": "2026-02-06T17:27:23.715035"
+  },
+  "results": [
+    {
+      "call_id": "VNPmRv2I8R",
+      "meeting_title": "Telnyx Intro Call (Gursharan Kohli)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "definitely",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.8500000000000001,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 51, Prospect Turns: 51, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "GAn6gZe4t2",
+      "meeting_title": "Telnyx Intro Call (Esmeralda Portillo)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "definitely",
+          "meeting",
+          "tell me more",
+          "follow-up",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 288, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "98vyOLfmbK",
+      "meeting_title": "Telnyx Intro Call",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "perfect",
+          "schedule",
+          "meeting",
+          "follow-up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 255, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "FrQR5IUjIy",
+      "meeting_title": "Telnyx Intro Call (Vlad Yushvah)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "perfect",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 317, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "ia9fqNG7XN",
+      "meeting_title": "Telnyx Intro Call (Chuck East)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "definitely",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 381, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "gdwcPqXOC2",
+      "meeting_title": "Telnyx Intro Call (Milan Cheeks)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 196, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "CIDO4am3cN",
+      "meeting_title": "Telnyx Intro Call (Mike Lyngaas)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "follow-up",
+          "follow up",
+          "next step"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 277, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "iCR7aNG7XN",
+      "meeting_title": "Telnyx Intro Call (Dias Gotama)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "tell me more",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "too expensive"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 161, Prospect Turns: 139, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "Q4jOTHWoec",
+      "meeting_title": "Telnyx Intro Call (Andres Valera)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "we have something"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 408, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "pfbfozhFqW",
+      "meeting_title": "Telnyx Intro Call (Corey Welch)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next step",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "not interested",
+          "budget",
+          "too expensive"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 461, Progression: 9, Rejection: 4"
+    },
+    {
+      "call_id": "iAnE0NG7XN",
+      "meeting_title": "Telnyx Intro Call (Danyal Basharat)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "follow up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 309, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "82O0zlq5Az",
+      "meeting_title": "Telnyx Intro Call (Josh Domino)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "perfect",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 380, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "hyfsNF2kx3",
+      "meeting_title": "Telnyx Intro Call (Michael Pfeil)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "next step",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.9999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 141, Prospect Turns: 240, Progression: 9, Rejection: 0"
+    },
+    {
+      "call_id": "R5ONOJQAba",
+      "meeting_title": "Telnyx Intro Call (Kamlesh Sharma)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "moving forward",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 346, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "xBOcYr6485",
+      "meeting_title": "Telnyx Intro Call (Cake Henline)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.5,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 1, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "zfDLZgDK8X",
+      "meeting_title": "Telnyx Intro Call (Anil Bhambi)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "definitely",
+          "perfect"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.75,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 56, Prospect Turns: 210, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "2viqpeNZ5I",
+      "meeting_title": "Telnyx Intro Call (Umar Tariq)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "follow-up",
+          "definitely",
+          "perfect",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 205, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "iz6GzNG7XN",
+      "meeting_title": "Telnyx Intro Call (Andy S)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 286, Prospect Turns: 330, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "9a7HULfmbK",
+      "meeting_title": "Telnyx Intro Call (Iknoor Sandhu)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "tell me more",
+          "follow up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "we have something",
+          "i'll get back to you"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 645, Prospect Turns: 342, Progression: 10, Rejection: 3"
+    },
+    {
+      "call_id": "vkQwioNTQl",
+      "meeting_title": "Telnyx Intro Call (Eugene Chayko)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 19, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "XYRt6KdLuU",
+      "meeting_title": "Telnyx Intro Call (Matthew Braun)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "that works",
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "too expensive"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 260, Prospect Turns: 206, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "ScSXNVkt5D",
+      "meeting_title": "Telnyx Intro Call (Rynn Dash)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 209, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "R8UY7JQAba",
+      "meeting_title": "Telnyx Intro Call (Emmett Hintz)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.75,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 54, Prospect Turns: 382, Progression: 8, Rejection: 0"
+    },
+    {
+      "call_id": "gnFokqXOC2",
+      "meeting_title": "Telnyx Intro Call (Jamellah Tano)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.5,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 34, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "Jll4TxvN1b",
+      "meeting_title": "Telnyx Intro Call (Pallab Mandal)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "follow up",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 195, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "KYshFydSpX",
+      "meeting_title": "Telnyx Intro Call (David l)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "not interested",
+          "i'll get back to you"
+        ],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 124, Prospect Turns: 280, Progression: 6, Rejection: 2"
+    },
+    {
+      "call_id": "qnTqoAu3yc",
+      "meeting_title": "Telnyx Intro Call (Brooklyn Danner)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 90, Prospect Turns: 61, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "EzqCN0O92b",
+      "meeting_title": "Telnyx Intro Call (Sarman Aulakh)",
+      "sentiment_analysis": {
+        "engagement_level": "polite_rejection",
+        "progression_signals": [
+          "definitely",
+          "perfect",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "business_needs_exploration"
+        ]
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 20, Prospect Turns: 217, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "wZNuAn0S3m",
+      "meeting_title": "Telnyx Intro Call (Sarman Aulakh) #2",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "that works",
+          "perfect",
+          "schedule",
+          "meeting",
+          "follow-up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 11, Prospect Turns: 280, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "EzbPt0O92b",
+      "meeting_title": "Telnyx Intro Call (Sergey Lytvyn)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 345, Progression: 8, Rejection: 1"
+    },
+    {
+      "call_id": "qn3KmAu3yc",
+      "meeting_title": "Telnyx Intro Call (Sharukh Hassan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "follow up",
+          "when can we",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 302, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "DkVSDwn1MI",
+      "meeting_title": "Telnyx Intro Call (Liisa Walsh)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "next step",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 344, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "Dkx6Cwn1MI",
+      "meeting_title": "Telnyx Intro Call (Eric Larouche)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "can you show me",
+          "definitely",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 102, Prospect Turns: 161, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "AnsWuCwHU8",
+      "meeting_title": "Telnyx Intro Call (Dominic Steil)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "schedule",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.65,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 13, Prospect Turns: 42, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "wG35Jn0S3m",
+      "meeting_title": "Telnyx Intro Call (Mandi Blaceri)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 89, Prospect Turns: 51, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "afxKvPQXyk",
+      "meeting_title": "Telnyx Intro Call (Diego crosinelli)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.5,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 1, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "RYQDFJQAba",
+      "meeting_title": "Telnyx Intro Call (Namith Telkar)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "i'll set",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 204, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "FLlF3IUjIy",
+      "meeting_title": "Telnyx Intro Call (Isabel kraut)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "moving forward"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.75,
+        "original_score": 0.8,
+        "original_qualified": 0
+      },
+      "analysis_notes": "AE Turns: 72, Prospect Turns: 66, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "exkwwuWsgq",
+      "meeting_title": "Telnyx Intro Call (Xi LI)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 0.8,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 158, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "XaTj6KdLuU",
+      "meeting_title": "Telnyx Intro Call (Andrew Oberlin)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "definitely",
+          "follow up"
+        ],
+        "rejection_signals": [
+          "we have something"
+        ],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 86, Prospect Turns: 74, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "EpnKa0O92b",
+      "meeting_title": "Telnyx Intro Call (Will Helliwell)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 187, Prospect Turns: 161, Progression: 8, Rejection: 0"
+    },
+    {
+      "call_id": "iQoMlNG7XN",
+      "meeting_title": "Telnyx Intro Call (Hafiz Mushadek)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "that works",
+          "interested",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "current_state_discovery",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 272, Prospect Turns: 99, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "2J3wfeNZ5I",
+      "meeting_title": "Telnyx Intro Call (Brian Kidd)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "tell me more",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 221, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "oBbT4skvHr",
+      "meeting_title": "Telnyx Intro Call (Rafael Rossini)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.5,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 1, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "keWf6GyxQi",
+      "meeting_title": "Telnyx Intro Call (Tom Spoor)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 350, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "poaWgzhFqW",
+      "meeting_title": "Telnyx Intro Call (Rory Dredhart)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "not interested"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 358, Progression: 2, Rejection: 1"
+    },
+    {
+      "call_id": "NHLYAEmldc",
+      "meeting_title": "Telnyx Intro Call (Teddy Leon)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 2, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "NQigHEmldc",
+      "meeting_title": "Telnyx Intro Call (Bryan Bianchi)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.8,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 46, Prospect Turns: 35, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "pvmsrzhFqW",
+      "meeting_title": "Telnyx Intro Call (Nate nate)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely",
+          "perfect",
+          "tell me more"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 100, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "zonptgDK8X",
+      "meeting_title": "Telnyx Intro Call (Waqar Haider)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 388, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "O7FgNkvEcs",
+      "meeting_title": "Telnyx Intro Call (Jack Tang)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "meeting",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 152, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "qDrdVAu3yc",
+      "meeting_title": "Telnyx Intro Call (Shivam Goswami)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 338, Progression: 2, Rejection: 2"
+    },
+    {
+      "call_id": "Slp0FVkt5D",
+      "meeting_title": "Telnyx Intro Call (Guillermo Gutierrez)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 320, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "9gFmALfmbK",
+      "meeting_title": "Telnyx Intro Call (Julian Salama)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "perfect",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "maybe in the future"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 258, Progression: 3, Rejection: 1"
+    },
+    {
+      "call_id": "Ka1ewydSpX",
+      "meeting_title": "Telnyx Intro Call (Tony Nikas)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "let me connect you",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 346, Prospect Turns: 377, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "Lqhs3WhmuW",
+      "meeting_title": "Telnyx Intro Call (Ramzi El Kassar)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.5,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 212, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "GesSrZe4t2",
+      "meeting_title": "Telnyx Intro Call (Sebastian Intriago)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "moving forward",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next step",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 186, Prospect Turns: 215, Progression: 10, Rejection: 0"
+    },
+    {
+      "call_id": "IL3HqTuacA",
+      "meeting_title": "Telnyx Intro Call (Tejas Patel)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "perfect",
+          "schedule",
+          "follow-up",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 361, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "Sl2mBVkt5D",
+      "meeting_title": "Telnyx Intro Call (Raffi Krikorian)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "next steps",
+          "interested",
+          "follow up",
+          "perfect"
+        ],
+        "rejection_signals": [
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 0.5,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 209, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "GA2yEZe4t2",
+      "meeting_title": "Telnyx x insync Intro Call",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next step"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "budget"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 217, Prospect Turns: 429, Progression: 8, Rejection: 2"
+    },
+    {
+      "call_id": "VIN22v2I8R",
+      "meeting_title": "Telnyx Intro Call (Shabbir Tapal)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "moving forward",
+          "definitely",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 255, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "PibUZjADUG",
+      "meeting_title": "Telnyx Intro Call (Pete Toussi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 456, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "hzXrqF2kx3",
+      "meeting_title": "Telnyx Intro Call (Richard Jimenez)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 98, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "sbkXADrTH0",
+      "meeting_title": "Telnyx Intro Call (Kamar Oyenuga)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 92, Progression: 8, Rejection: 0"
+    },
+    {
+      "call_id": "eYrmAuWsgq",
+      "meeting_title": "Telnyx Intro Call (Bilal Khan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "next step",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 128, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "gBo0hqXOC2",
+      "meeting_title": "Telnyx Intro Call (Austin Brodie)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 80, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "AkDcGCwHU8",
+      "meeting_title": "Telnyx Intro Call (amir mahmoudzadeh)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next step",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 478, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "hzNk7F2kx3",
+      "meeting_title": "Telnyx Intro Call (Marc Soussand)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 167, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "w2cPun0S3m",
+      "meeting_title": "Telnyx Intro Call (Randy de la Cruz)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "not a fit"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 199, Progression: 2, Rejection: 1"
+    },
+    {
+      "call_id": "rhCd6SsbBw",
+      "meeting_title": "Telnyx Intro Call (Michael Probst)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 301, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "xdpIRr6485",
+      "meeting_title": "Telnyx Intro Call (Karl Heinz Frankeser)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "too expensive"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 150, Prospect Turns: 287, Progression: 4, Rejection: 2"
+    },
+    {
+      "call_id": "NShxDEmldc",
+      "meeting_title": "Telnyx Intro Call (Christopher Carey)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 376, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "9sI9WLfmbK",
+      "meeting_title": "Telnyx Intro Call (Tobyn Sowden)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "interested",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 255, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "SFHUWVkt5D",
+      "meeting_title": "Telnyx Intro Call (Brad Scheiner)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "definitely",
+          "meeting",
+          "follow up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 299, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "vTpuPoNTQl",
+      "meeting_title": "Telnyx Intro Call (Hamza Khurram)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 215, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "NSmKnEmldc",
+      "meeting_title": "Telnyx Intro Call (Abdul Ahad Bin Safdar)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "next steps",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 22, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "p5GpQzhFqW",
+      "meeting_title": "Telnyx Intro Call (Isaac Stennett)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 277, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "2jMADeNZ5I",
+      "meeting_title": "Canceled: Telnyx Intro Call (Israel Perlawan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "next steps",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 348, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "yfd9LRh72S",
+      "meeting_title": "Telnyx Intro Call (Ashraf Ibrahim)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 272, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "hzzRWF2kx3",
+      "meeting_title": "Telnyx Intro Call (Michel Mosseq)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "meeting",
+          "follow-up",
+          "follow up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 103, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "NSJt8Emldc",
+      "meeting_title": "Telnyx Intro Call (Dash Kisoon)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "next step",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 363, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "68qqZQKHGx",
+      "meeting_title": "Telnyx Intro Call (Bishal Nagarkoti)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "definitely",
+          "meeting",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 346, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "D74olwn1MI",
+      "meeting_title": "Telnyx Intro Call (Andrew Hoover)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 319, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "aZYiXPQXyk",
+      "meeting_title": "Telnyx Intro Call (Chandran Elumalai)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 165, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "l957OMEzKd",
+      "meeting_title": "Telnyx Intro Call (Jim Eisenhauer)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 249, Progression: 8, Rejection: 0"
+    },
+    {
+      "call_id": "bCdME7NWdh",
+      "meeting_title": "Telnyx Intro Call (Christine Freeman)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 267, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "y4izWRh72S",
+      "meeting_title": "Telnyx Intro Call (Zak Nikodinovski)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 508, Progression: 7, Rejection: 2"
+    },
+    {
+      "call_id": "y4c5tRh72S",
+      "meeting_title": "Telnyx Intro Call (Harry Jarrett)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 392, Progression: 7, Rejection: 0"
+    },
+    {
+      "call_id": "y4MWzRh72S",
+      "meeting_title": "Telnyx Intro Call (Rahul Surana)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "interested",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 264, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "pM4tGzhFqW",
+      "meeting_title": "Telnyx Intro Call (andre hurst)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "meeting",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 167, Progression: 5, Rejection: 2"
+    },
+    {
+      "call_id": "s1NE7DrTH0",
+      "meeting_title": "Telnyx Intro Call (Jonathan Beebe)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 348, Progression: 7, Rejection: 0"
+    },
+    {
+      "call_id": "s1ZOIDrTH0",
+      "meeting_title": "Telnyx Intro Call (Rotem Levi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "next steps",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "too expensive"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 209, Progression: 3, Rejection: 1"
+    },
+    {
+      "call_id": "iF7MdNG7XN",
+      "meeting_title": "Telnyx Intro Call (Sean Egan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next step",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 223, Progression: 7, Rejection: 0"
+    },
+    {
+      "call_id": "UbuKQ94JTo",
+      "meeting_title": "Telnyx Intro Call (Jose Navarro)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 155, Progression: 3, Rejection: 1"
+    },
+    {
+      "call_id": "AJJuECwHU8",
+      "meeting_title": "Telnyx Intro Call (Shreyas Lakshminarayan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 203, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "L2IJQWhmuW",
+      "meeting_title": "Telnyx Intro Call (Bo DellaMaria)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 232, Progression: 8, Rejection: 0"
+    },
+    {
+      "call_id": "iFv9BNG7XN",
+      "meeting_title": "Telnyx Intro Call (Amir Taylor)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "meeting",
+          "next step",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 242, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "JpdukxvN1b",
+      "meeting_title": "Telnyx Intro Call (Nayan Patel)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "perfect",
+          "next step",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 239, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "gyltTqXOC2",
+      "meeting_title": "Telnyx Intro Call (Dotun Koku)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "definitely",
+          "meeting",
+          "can you show me",
+          "follow up"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 303, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "ETJfi0O92b",
+      "meeting_title": "Telnyx Intro Call (Evgeny Kochubey)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 102, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "2EgwneNZ5I",
+      "meeting_title": "Telnyx Intro Call (Pranav Hegde)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "interested",
+          "perfect",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "different requirements",
+          "not interested",
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.95,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 88, Prospect Turns: 104, Progression: 3, Rejection: 3"
+    },
+    {
+      "call_id": "Zh0HQiyrXc",
+      "meeting_title": "Telnyx Intro Call (Gowri Narayana)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "i'll set",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "already using",
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 286, Progression: 7, Rejection: 2"
+    },
+    {
+      "call_id": "lD5HvMEzKd",
+      "meeting_title": "Telnyx Intro Call (Steve Puiszis)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "interested",
+          "meeting",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 156, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "IOIobTuacA",
+      "meeting_title": "Telnyx Intro Call (Derek Berven)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "definitely",
+          "perfect",
+          "can you show me"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 733, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "qygcLAu3yc",
+      "meeting_title": "Telnyx Intro Call (Shaheed Alhammad)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 75, Prospect Turns: 75, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "Q9Is5HWoec",
+      "meeting_title": "Telnyx Intro Call (Rahul Waghole)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "moving forward",
+          "definitely",
+          "meeting",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.75,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 68, Prospect Turns: 30, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "KuiomydSpX",
+      "meeting_title": "Telnyx Intro Call (Andrea Pessotto)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "next steps",
+          "interested",
+          "perfect",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.95,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 230, Prospect Turns: 46, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "vAWyWoNTQl",
+      "meeting_title": "Telnyx Intro Call (Nishant Bijani)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 270, Prospect Turns: 233, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "U1MjX94JTo",
+      "meeting_title": "Telnyx Intro Call (Juan Carlos Villamar)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "sounds good",
+          "perfect",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 188, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "2NDGweNZ5I",
+      "meeting_title": "Telnyx Intro Call (Lipika Swami)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 163, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "Q9nAdHWoec",
+      "meeting_title": "Telnyx Intro Call (Haji Annu)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "next steps",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 203, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "vAis4oNTQl",
+      "meeting_title": "Telnyx Intro Call (Indrajit Singh)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "next steps",
+          "interested",
+          "perfect",
+          "tell me more"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 206, Prospect Turns: 143, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "Zde7SiyrXc",
+      "meeting_title": "Telnyx Intro Call (Nikola Domazet)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "interested",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "already using",
+          "maybe in the future",
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 159, Prospect Turns: 111, Progression: 3, Rejection: 3"
+    },
+    {
+      "call_id": "axVWNPQXyk",
+      "meeting_title": "Telnyx Intro Call (Robert Earl)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.5,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 186, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "ihIRjNG7XN",
+      "meeting_title": "Telnyx Intro Call (Joel NA)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "interested"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 379, Progression: 2, Rejection: 2"
+    },
+    {
+      "call_id": "2NEAfeNZ5I",
+      "meeting_title": "Telnyx Intro Call (Joshua Munstermann)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "surface_level",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.75,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 76, Prospect Turns: 21, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "TkkIo1cHbQ",
+      "meeting_title": "Telnyx Intro Call (Jan Vondelgym)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "interested",
+          "definitely",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "maybe in the future",
+          "we have something"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 202, Progression: 6, Rejection: 2"
+    },
+    {
+      "call_id": "eEEL8uWsgq",
+      "meeting_title": "Telnyx Intro Call (Melih CULHA)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 119, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "Sggf6Vkt5D",
+      "meeting_title": "Telnyx Intro Call (Abhinav Airan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 241, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "gKX4yqXOC2",
+      "meeting_title": "Telnyx Intro Call (Vivek Malhotra)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "meeting",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 158, Prospect Turns: 89, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "kmfZaGyxQi",
+      "meeting_title": "Telnyx Intro Call (Chris Kumbruck)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "interested",
+          "follow up"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 289, Progression: 3, Rejection: 1"
+    },
+    {
+      "call_id": "U1FcH94JTo",
+      "meeting_title": "Telnyx Intro Call (Jose Arzolay)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "moving forward",
+          "meeting",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 276, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "zXUJ9gDK8X",
+      "meeting_title": "Telnyx Intro Call (Jody Orozco)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 395, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "zX0rXgDK8X",
+      "meeting_title": "Telnyx Intro Call (Zul Momin)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 376, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "vIw6LoNTQl",
+      "meeting_title": "Telnyx Intro Call (Nic Carpenter)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 92, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "7a68m2ECld",
+      "meeting_title": "Telnyx Intro Call (Nic Carpenter)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 91, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "WDKumXfuwQ",
+      "meeting_title": "Telnyx Intro Call (Marvin Schulte)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.75,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 118, Prospect Turns: 96, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "UVcze94JTo",
+      "meeting_title": "Telnyx Intro Call (Chris Labonne)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "that works",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "not right now",
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 388, Progression: 3, Rejection: 2"
+    },
+    {
+      "call_id": "qc75GAu3yc",
+      "meeting_title": "Telnyx Intro Call (HAROLD FORERO NEIRA)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 133, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "kKjURGyxQi",
+      "meeting_title": "Telnyx Intro Call (Craig Ganoung)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 283, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "Erlwx0O92b",
+      "meeting_title": "Telnyx Intro Call (Michael T)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 9, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "9vYprLfmbK",
+      "meeting_title": "Telnyx Intro Call (Mohammad Shoaib)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "next steps",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 230, Progression: 3, Rejection: 2"
+    },
+    {
+      "call_id": "g5m5KqXOC2",
+      "meeting_title": "Telnyx Intro Call (Vincenzo Piccolo)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next step"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 174, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "COnKiam3cN",
+      "meeting_title": "Telnyx Intro Call (Javiera Inzunza)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "meeting",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 178, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "akwMdPQXyk",
+      "meeting_title": "Telnyx Intro Call (Bhaven Doshi)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "next steps",
+          "can you show me",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 141, Prospect Turns: 98, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "3Nfef8vFgs",
+      "meeting_title": "Telnyx Intro Call (Siyamthemba Kakaza)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 179, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "zMrsPgDK8X",
+      "meeting_title": "Telnyx Intro Call (Rauf Verdiev)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 201, Progression: 7, Rejection: 2"
+    },
+    {
+      "call_id": "9vuhrLfmbK",
+      "meeting_title": "Telnyx Intro Call (Nicholas Johnson)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 36, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "vFj72oNTQl",
+      "meeting_title": "Telnyx Intro Call (Sameer Khan)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 19, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "Er7so0O92b",
+      "meeting_title": "Telnyx Intro Call (Andrea Gerardi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "follow-up",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 172, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "TgNQW1cHbQ",
+      "meeting_title": "Telnyx Intro Call (Nuno Silva)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 310, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "ZRhzSiyrXc",
+      "meeting_title": "Telnyx Intro Call (Jake Iverson)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "meeting",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 338, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "vFArsoNTQl",
+      "meeting_title": "Telnyx Intro Call (dylan normandin)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "moving forward",
+          "interested",
+          "definitely",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 109, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "sTaa1DrTH0",
+      "meeting_title": "Telnyx Intro Call (Carlos Villasmil)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up"
+        ],
+        "rejection_signals": [
+          "not right now"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 155, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "ErIRt0O92b",
+      "meeting_title": "Telnyx Intro Call (Henrik Thielmann)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 176, Prospect Turns: 143, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "zMWzVgDK8X",
+      "meeting_title": "Telnyx Intro Call (Rodolfo Marengo Sobreira)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 32, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "0SItjUpxhv",
+      "meeting_title": "Telnyx Intro Call (Mate Gorgenyi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 163, Progression: 2, Rejection: 1"
+    },
+    {
+      "call_id": "6Y0zeQKHGx",
+      "meeting_title": "Telnyx Intro Call (Seb Wiechers)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "meeting",
+          "follow-up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 255, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "qcKPVAu3yc",
+      "meeting_title": "Telnyx Intro Call (Jason Berndt)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 416, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "sTAHdDrTH0",
+      "meeting_title": "Telnyx Intro Call (Israel Benarousse)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "schedule",
+          "perfect",
+          "meeting",
+          "next step"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 59, Prospect Turns: 38, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "g5if0qXOC2",
+      "meeting_title": "Telnyx Intro Call (Shlomo Weitzner)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "follow-up",
+          "follow up",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "already using",
+          "maybe in the future"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 249, Progression: 4, Rejection: 2"
+    },
+    {
+      "call_id": "xmTV9r6485",
+      "meeting_title": "Telnyx Intro Call (Hitesh Chaudhary)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is",
+          "budget",
+          "i'll get back to you"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 246, Progression: 6, Rejection: 3"
+    },
+    {
+      "call_id": "Nbp1qEmldc",
+      "meeting_title": "Telnyx Intro Call (Guillermo Agreda)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 190, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "UeHJz94JTo",
+      "meeting_title": "Telnyx Intro Call (Ishai M)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 158, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "02eRJUpxhv",
+      "meeting_title": "Telnyx Intro Call (Rushabh Gandhi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "i'll set",
+          "next step",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "not right now"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 209, Progression: 7, Rejection: 1"
+    },
+    {
+      "call_id": "UeFY694JTo",
+      "meeting_title": "Telnyx Intro Call (Fidelis Mutyambizi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 554, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "eL5GBuWsgq",
+      "meeting_title": "Telnyx Intro Call (Joshua Welch)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 223, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "rC1xcSsbBw",
+      "meeting_title": "Telnyx Intro Call (Shahnawaz Ahmad)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 23, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "IiathTuacA",
+      "meeting_title": "Telnyx Intro Call (Syed Ali Asad Ullah Akbar)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "schedule",
+          "perfect"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.95,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 72, Prospect Turns: 90, Progression: 2, Rejection: 1"
+    },
+    {
+      "call_id": "WQvGAXfuwQ",
+      "meeting_title": "Telnyx Intro Call (Mario Dimitrov)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "definitely",
+          "perfect"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "moderate_discovery",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 89, Prospect Turns: 184, Progression: 2, Rejection: 1"
+    },
+    {
+      "call_id": "kFLf1GyxQi",
+      "meeting_title": "Telnyx Intro Call (Mattia Carrara)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 233, Prospect Turns: 122, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "yzoYVRh72S",
+      "meeting_title": "Telnyx Intro Call (Babar Ali Qasim)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 94, Progression: 1, Rejection: 1"
+    },
+    {
+      "call_id": "XHxhaKdLuU",
+      "meeting_title": "Telnyx Intro Call (Elliot MacNeille)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "next step",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 418, Progression: 7, Rejection: 0"
+    },
+    {
+      "call_id": "pyQT9zhFqW",
+      "meeting_title": "Telnyx Intro Call (Charlie Davies)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "interested",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 76, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "07NolUpxhv",
+      "meeting_title": "Telnyx Intro Call (Rania khorbatly)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "pain_point_identification"
+        ]
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.55,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 19, Prospect Turns: 22, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "U2k6P94JTo",
+      "meeting_title": "Telnyx Intro Call (Evan McCall)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "interested",
+          "definitely",
+          "meeting",
+          "tell me more",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 255, Progression: 8, Rejection: 0"
+    },
+    {
+      "call_id": "w8J0ln0S3m",
+      "meeting_title": "Telnyx Intro Call (Nick Druz)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "perfect",
+          "definitely",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "not right now",
+          "pricing is",
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 240, Progression: 4, Rejection: 3"
+    },
+    {
+      "call_id": "07MjTUpxhv",
+      "meeting_title": "Telnyx Intro Call (Mohammed Katranji)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "interested"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 68, Prospect Turns: 58, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "1NDoHb6HqL",
+      "meeting_title": "Telnyx Intro Call (Dennis Geus)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "interested",
+          "perfect"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.9,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 142, Prospect Turns: 71, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "e9frpuWsgq",
+      "meeting_title": "Telnyx Intro Call (Iustin Insuratelu)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "schedule",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 174, Prospect Turns: 116, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "KHcV1ydSpX",
+      "meeting_title": "Telnyx Intro Call (Jason Morris)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 427, Progression: 9, Rejection: 0"
+    },
+    {
+      "call_id": "e9sOhuWsgq",
+      "meeting_title": "Telnyx Intro Call (Tan Ali)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely",
+          "follow up",
+          "tell me more"
+        ],
+        "rejection_signals": [
+          "already using"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 282, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "sYZBaDrTH0",
+      "meeting_title": "Telnyx Intro Call (Oren Chazan)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "that works",
+          "interested",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "budget"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 171, Prospect Turns: 42, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "LuQ30WhmuW",
+      "meeting_title": "Telnyx Intro Call (Anil Kumar)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 394, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "GFmgFZe4t2",
+      "meeting_title": "Telnyx Intro Call (Dedi Metser)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "follow up",
+          "meeting",
+          "next step"
+        ],
+        "rejection_signals": [
+          "budget"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 373, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "joKWKYk5bX",
+      "meeting_title": "Telnyx Intro Call (Md Jahangir Hossain)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "interested",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "not interested",
+          "too expensive"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 305, Progression: 6, Rejection: 2"
+    },
+    {
+      "call_id": "07nmQUpxhv",
+      "meeting_title": "Telnyx Intro Call (Adam Quinn)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": [
+          "pain_point_identification"
+        ]
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.55,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 124, Prospect Turns: 67, Progression: 0, Rejection: 0"
+    },
+    {
+      "call_id": "ArkZgCwHU8",
+      "meeting_title": "Telnyx Intro Call (Neeraj Parnami)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 146, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "FGeOdIUjIy",
+      "meeting_title": "Telnyx Intro Call (Abdul Waheed)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 286, Prospect Turns: 200, Progression: 5, Rejection: 1"
+    },
+    {
+      "call_id": "w8dtZn0S3m",
+      "meeting_title": "Telnyx Intro Call (Gurprit Singh)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "tell me more",
+          "interested",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "pain_point_identification",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 158, Prospect Turns: 169, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "07Xj3Upxhv",
+      "meeting_title": "Telnyx Intro Call (Arslan Nazir)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "next steps",
+          "definitely",
+          "perfect",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 322, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "HZii5pQPEJ",
+      "meeting_title": "Telnyx Intro Call (Maxim Monzer)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 102, Progression: 1, Rejection: 0"
+    },
+    {
+      "call_id": "ZDs3tiyrXc",
+      "meeting_title": "Telnyx Intro Call (Nooruddin Butt)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next steps",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 307, Progression: 9, Rejection: 0"
+    },
+    {
+      "call_id": "aL9e7PQXyk",
+      "meeting_title": "Telnyx Intro Call (Yoan Gosselin)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "sounds good"
+        ],
+        "rejection_signals": [
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 334, Progression: 8, Rejection: 1"
+    },
+    {
+      "call_id": "oQ6khskvHr",
+      "meeting_title": "Telnyx Intro Call (Alvin Salehi)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "interested",
+          "meeting",
+          "i'll set",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 347, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "R1hCPJQAba",
+      "meeting_title": "Telnyx Intro Call (Jacopo Moretto)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow up",
+          "next step"
+        ],
+        "rejection_signals": [
+          "maybe in the future",
+          "pricing is"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.8999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 558, Progression: 6, Rejection: 2"
+    },
+    {
+      "call_id": "9ts7MLfmbK",
+      "meeting_title": "Telnyx Intro Call (mow said)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "follow up",
+          "meeting"
+        ],
+        "rejection_signals": [
+          "maybe in the future"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 321, Progression: 4, Rejection: 1"
+    },
+    {
+      "call_id": "lJ9OSMEzKd",
+      "meeting_title": "Telnyx Intro Call (Ika Balzam)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "not right now"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 352, Progression: 6, Rejection: 1"
+    },
+    {
+      "call_id": "AUMNHCwHU8",
+      "meeting_title": "Telnyx Intro Call (Ben Austin)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "definitely",
+          "meeting",
+          "next step",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 319, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "0fRGxUpxhv",
+      "meeting_title": "Telnyx Intro Call (David Sharkey)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "can you show me",
+          "interested",
+          "definitely"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 268, Progression: 4, Rejection: 0"
+    },
+    {
+      "call_id": "WhSHVXfuwQ",
+      "meeting_title": "Telnyx Intro Call (Raj Kolluri)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "moving forward",
+          "interested",
+          "definitely"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 215, Progression: 3, Rejection: 0"
+    },
+    {
+      "call_id": "Se42iVkt5D",
+      "meeting_title": "Telnyx Intro Call (Milo Margolis)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "next steps"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 164, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "HZaLrpQPEJ",
+      "meeting_title": "Telnyx Intro Call (ALEXANDRE PELLERIN)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "definitely",
+          "meeting",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 288, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "v6wv5oNTQl",
+      "meeting_title": "Telnyx Intro Call (Jay Brown)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "that works",
+          "schedule",
+          "definitely",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 261, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "LtLDcWhmuW",
+      "meeting_title": "Telnyx Intro Call (Asim Hirji)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "that works",
+          "interested",
+          "definitely",
+          "follow up"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 230, Progression: 5, Rejection: 0"
+    },
+    {
+      "call_id": "VeS1fv2I8R",
+      "meeting_title": "Telnyx Intro Call (Andreu Sureda-Guixa)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "moving forward",
+          "definitely",
+          "meeting",
+          "follow up",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 311, Progression: 6, Rejection: 0"
+    },
+    {
+      "call_id": "CUpQsam3cN",
+      "meeting_title": "Telnyx Intro Call (Keith Bowie)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "definitely",
+          "sounds good"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.6,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 128, Progression: 2, Rejection: 0"
+    },
+    {
+      "call_id": "r7WGMSsbBw",
+      "meeting_title": "Telnyx Intro Call (Sep Advani)",
+      "sentiment_analysis": {
+        "engagement_level": "neutral",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "moving forward",
+          "interested",
+          "meeting",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "not right now",
+          "pricing is",
+          "i'll get back to you"
+        ],
+        "questions_depth": "deep_technical",
+        "discovery_patterns": [
+          "business_needs_exploration",
+          "timeline_qualification",
+          "budget_discovery"
+        ]
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 1.0,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 189, Prospect Turns: 203, Progression: 7, Rejection: 3"
+    },
+    {
+      "call_id": "VeEkEv2I8R",
+      "meeting_title": "Telnyx Intro Call (Strong College Students Moving)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "perfect",
+          "schedule",
+          "interested",
+          "definitely",
+          "meeting",
+          "follow-up",
+          "follow up",
+          "next steps"
+        ],
+        "rejection_signals": [
+          "maybe in the future"
+        ],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "NOT_QUALIFIED",
+        "confidence_score": 0.7999999999999999,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 728, Progression: 8, Rejection: 1"
+    },
+    {
+      "call_id": "iDCp5NG7XN",
+      "meeting_title": "Telnyx Intro Call (Ayo Olatoye)",
+      "sentiment_analysis": {
+        "engagement_level": "unknown",
+        "progression_signals": [
+          "schedule",
+          "definitely",
+          "meeting"
+        ],
+        "rejection_signals": [],
+        "questions_depth": "none",
+        "discovery_patterns": []
+      },
+      "qualification": {
+        "label": "QUALIFIED",
+        "confidence_score": 0.7,
+        "original_score": 1.0,
+        "original_qualified": 1
+      },
+      "analysis_notes": "AE Turns: 0, Prospect Turns: 174, Progression: 3, Rejection: 0"
+    }
+  ]
+}

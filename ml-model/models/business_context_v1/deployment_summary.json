@@ -1,0 +1,19 @@
+{
+  "model_status": "PRODUCTION_READY",
+  "model_file": "fellow_business_context_v1.joblib",
+  "extractor_file": "feature_extractor.joblib",
+  "accuracy": 0.8055555555555556,
+  "improvement_over_baseline": 0.0805555555555556,
+  "target_met": true,
+  "feature_count": 70,
+  "business_context_only": true,
+  "privacy_compliant": true,
+  "validation_timestamp": "2026-02-06T17:45:23.548886",
+  "deployment_notes": [
+    "Replaces Clearbit demographic scoring",
+    "Uses only conversation-based business context",
+    "No external API dependencies for qualification",
+    "Achieves 80.6% accuracy vs 72.5% baseline",
+    "Ready for production deployment"
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "analysis_metadata": {
+    "created": "2025-01-28",
+    "total_samples": 70,
+    "qualified_samples": 42,
+    "overall_conversion_rate": 60.0,
+    "data_sources": [
+      "enhanced_fellow_results.json",
+      "qualification_test_results.json", 
+      "real_fellow_test_results.json"
+    ],
+    "analysis_focus": "Clearbit-independent business context signals"
+  },
+  
+  "10x_conversion_patterns": {
+    "description": "Industry + use case combinations with 90%+ qualification rates",
+    "patterns": [
+      {
+        "pattern": "AI/Voice Technology + Voice AI",
+        "conversion_rate": 100.0,
+        "sample_size": 3,
+        "avg_score": 89.3,
+        "key_signals": ["AI marketplace", "voice AI services", "calling agents", "AI agents"],
+        "business_context": "AI companies building voice products or marketplaces",
+        "clearbit_independent_indicators": ["ai", "voice", "platform", "marketplace"]
+      },
+      {
+        "pattern": "Legal Technology + Voice AI",
+        "conversion_rate": 100.0,
+        "sample_size": 2,
+        "avg_score": 92.0,
+        "key_signals": ["voice AI agents", "intelligent dynamic forms", "decision tree agents"],
+        "business_context": "Legal tech companies adding voice AI capabilities",
+        "clearbit_independent_indicators": ["ai", "voice", "platform", "enterprise"]
+      },
+      {
+        "pattern": "Call Center/AI Analytics + Voice AI", 
+        "conversion_rate": 100.0,
+        "sample_size": 2,
+        "avg_score": 92.0,
+        "key_signals": ["conversational AI", "voice assistant products", "voice infrastructure"],
+        "business_context": "Call center technology with AI integration needs",
+        "clearbit_independent_indicators": ["call center", "ai", "voice", "enterprise"]
+      },
+      {
+        "pattern": "Healthcare/AI Technology + Voice AI",
+        "conversion_rate": 100.0,
+        "sample_size": 2,
+        "avg_score": 89.5,
+        "key_signals": ["voice AI", "healthcare automation", "patient communication"],
+        "business_context": "Healthcare companies implementing voice AI solutions",
+        "clearbit_independent_indicators": ["healthcare", "ai", "voice", "automation"]
+      },
+      {
+        "pattern": "Security/Enterprise Technology + Voice AI",
+        "conversion_rate": 100.0,
+        "sample_size": 2,
+        "avg_score": 91.0,
+        "key_signals": ["enterprise voice", "security communications"],
+        "business_context": "Security companies with enterprise voice needs",
+        "clearbit_independent_indicators": ["security", "enterprise", "voice", "platform"]
+      }
+    ]
+  },
+  
+  "high_conversion_patterns": {
+    "description": "Industry combinations with 70-89% qualification rates",
+    "patterns": [
+      {
+        "pattern": "Restaurant/Food Service + Technology",
+        "conversion_rate": 75.0,
+        "sample_size": 4,
+        "avg_score": 69.0,
+        "business_context": "Food service companies with technology integration",
+        "clearbit_independent_indicators": ["automation", "platform", "voice"]
+      }
+    ]
+  },
+  
+  "clearbit_replacement_signals": {
+    "description": "Business context signals that predict qualification without demographic data",
+    "ranked_signals": [
+      {
+        "signal": "ai",
+        "frequency": 33,
+        "context": "Companies mentioning AI in name, industry, or use case",
+        "qualification_predictor": "HIGH",
+        "reasoning": "AI companies have sophisticated voice/communication needs"
+      },
+      {
+        "signal": "voice", 
+        "frequency": 20,
+        "context": "Voice technology, voice AI, voice services mentioned",
+        "qualification_predictor": "HIGH",
+        "reasoning": "Direct alignment with Telnyx voice capabilities"
+      },
+      {
+        "signal": "platform",
+        "frequency": 11,
+        "context": "Platform business models, marketplaces, infrastructure",
+        "qualification_predictor": "MEDIUM-HIGH",
+        "reasoning": "Platform companies have scalable communication needs"
+      },
+      {
+        "signal": "healthcare",
+        "frequency": 8,
+        "context": "Healthcare industry, medical technology, patient communication",
+        "qualification_predictor": "HIGH",
+        "reasoning": "Healthcare has compliance requirements and enterprise needs"
+      },
+      {
+        "signal": "enterprise",
+        "frequency": 7,
+        "context": "Enterprise in company description or technology stack",
+        "qualification_predictor": "HIGH",
+        "reasoning": "Enterprise indicates larger scale and budget"
+      },
+      {
+        "signal": "call center",
+        "frequency": 5,
+        "context": "Call center technology, customer service automation",
+        "qualification_predictor": "HIGH",
+        "reasoning": "Direct fit for voice infrastructure needs"
+      },
+      {
+        "signal": "automation",
+        "frequency": 4,
+        "context": "Business process automation, AI automation",
+        "qualification_predictor": "MEDIUM-HIGH",
+        "reasoning": "Automation indicates sophistication and scale"
+      },
+      {
+        "signal": "marketplace",
+        "frequency": 3,
+        "context": "Marketplace business models, multi-tenant platforms",
+        "qualification_predictor": "HIGH",
+        "reasoning": "Marketplaces need scalable communication infrastructure"
+      }
+    ]
+  },
+  
+  "industry_qualification_matrix": {
+    "description": "Complete industry breakdown with conversion rates",
+    "industries": [
+      {
+        "industry": "AI/Voice Technology",
+        "conversion_rate": 100.0,
+        "qualified": 3,
+        "total": 3,
+        "avg_score": 89.3,
+        "tier": "TIER_1_GOLD"
+      },
+      {
+        "industry": "Legal Technology", 
+        "conversion_rate": 100.0,
+        "qualified": 2,
+        "total": 2,
+        "avg_score": 92.0,
+        "tier": "TIER_1_GOLD"
+      },
+      {
+        "industry": "Call Center/AI Analytics",
+        "conversion_rate": 100.0,
+        "qualified": 2,
+        "total": 2,
+        "avg_score": 92.0,
+        "tier": "TIER_1_GOLD"
+      },
+      {
+        "industry": "Healthcare/AI Technology",
+        "conversion_rate": 100.0,
+        "qualified": 2,
+        "total": 2,
+        "avg_score": 89.5,
+        "tier": "TIER_1_GOLD"
+      },
+      {
+        "industry": "Security/Enterprise Technology",
+        "conversion_rate": 100.0,
+        "qualified": 2,
+        "total": 2,
+        "avg_score": 91.0,
+        "tier": "TIER_1_GOLD"
+      },
+      {
+        "industry": "Digital Marketing/SMS Platform",
+        "conversion_rate": 100.0,
+        "qualified": 2,
+        "total": 2,
+        "avg_score": 71.0,
+        "tier": "TIER_1_GOLD"
+      },
+      {
+        "industry": "Restaurant/Food Service",
+        "conversion_rate": 75.0,
+        "qualified": 3,
+        "total": 4,
+        "avg_score": 69.0,
+        "tier": "TIER_2_SILVER"
+      }
+    ]
+  },
+  
+  "qualification_scoring_weights": {
+    "description": "Recommended scoring weights based on business context patterns",
+    "weights": {
+      "voice_ai_signals": {
+        "weight": 40.0,
+        "reasoning": "Strong predictor of enterprise voice needs"
+      },
+      "industry_ai_multiplier": {
+        "weight": 1.3,
+        "reasoning": "AI companies convert at 100% rate"
+      },
+      "healthcare_multiplier": {
+        "weight": 1.25,
+        "reasoning": "Healthcare has compliance and enterprise requirements"
+      },
+      "platform_business_boost": {
+        "weight": 20.0,
+        "reasoning": "Platform companies need scalable infrastructure"
+      },
+      "enterprise_signals": {
+        "weight": 15.0,
+        "reasoning": "Enterprise indicates budget and scale"
+      },
+      "competitive_displacement": {
+        "weight": 25.0,
+        "reasoning": "Replacing incumbents = immediate opportunity"
+      }
+    }
+  },
+  
+  "misclassification_patterns": {
+    "description": "Common patterns where algorithm fails but should qualify",
+    "examples": [
+      {
+        "type": "high_volume_hidden_scale",
+        "pattern": "Small company demographic but high volume use case",
+        "example": "Warranty company needing 25,000 phone numbers for PII masking",
+        "fix": "Check for volume indicators in conversation content"
+      },
+      {
+        "type": "competitive_displacement_urgency",
+        "pattern": "Immediate need to replace current provider",
+        "example": "Twilio replacement with cost reduction opportunity",
+        "fix": "Weight competitive mentions and urgency indicators"
+      },
+      {
+        "type": "technical_complexity_enterprise",
+        "pattern": "Multiple stakeholders and technical requirements",
+        "example": "Including technology leads and technical discussions",
+        "fix": "Detect enterprise signals beyond employee count"
+      }
+    ]
+  },
+  
+  "recommendations": {
+    "immediate_actions": [
+      "Prioritize ANY company with AI + Voice combination (100% conversion)",
+      "Flag healthcare + AI technology companies for fast-track (100% conversion)", 
+      "Create alerts for platform/marketplace business models",
+      "Weight volume indicators (numbers, scale mentions) over demographics"
+    ],
+    "algorithm_improvements": [
+      "Add business context scoring layer",
+      "Implement Clearbit-independent qualification signals",
+      "Create industry-specific qualification thresholds",
+      "Build competitive displacement detection"
+    ],
+    "clearbit_replacement_strategy": [
+      "Use conversation content for scale detection",
+      "Extract industry context from company descriptions",
+      "Detect enterprise signals through stakeholder mentions",
+      "Identify voice AI fit through use case analysis"
+    ]
+  }
+}

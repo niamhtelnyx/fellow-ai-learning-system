@@ -1,0 +1,66 @@
+{
+  "version": "production_v1",
+  "created": "2026-02-06T14:34:48.596594",
+  "training_samples": 40,
+  "qualified_samples": 11,
+  "not_qualified_samples": 29,
+  "qualification_rate": 0.275,
+  "accuracy_mean": 0.725,
+  "accuracy_std": 0.049999999999999996,
+  "quinn_baseline": 0.388,
+  "improvement_vs_quinn": 0.33699999999999997,
+  "score_discrimination": 0.2843469491659793,
+  "features": 1000,
+  "confusion_matrix": [
+    [
+      29,
+      0
+    ],
+    [
+      0,
+      11
+    ]
+  ],
+  "top_features": [
+    [
+      "sounds good",
+      0.031109848306272656
+    ],
+    [
+      "39",
+      0.011888356957068597
+    ],
+    [
+      "features",
+      0.011582922557131026
+    ],
+    [
+      "just like",
+      0.011158391160585224
+    ],
+    [
+      "sign",
+      0.010100980538483193
+    ],
+    [
+      "s pretty",
+      0.00964278485470262
+    ],
+    [
+      "new",
+      0.009489235315040357
+    ],
+    [
+      "00",
+      0.009453411889709589
+    ],
+    [
+      "live",
+      0.009417416290741294
+    ],
+    [
+      "carrier",
+      0.008564927163594437
+    ]
+  ]
+}

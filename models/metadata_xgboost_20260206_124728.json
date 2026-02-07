@@ -1,0 +1,26 @@
+{
+  "model_type": "sentiment_based_qualification",
+  "feature_extraction": "ae_sentiment_and_progression",
+  "training_samples": 20,
+  "qualified_samples": 16,
+  "non_qualified_samples": 4,
+  "feature_names": [
+    "ae_engagement_score",
+    "deal_progression_score",
+    "customer_readiness_score",
+    "momentum_indicators",
+    "sales_call_probability",
+    "transcript_length_normalized",
+    "speaker_turns_normalized"
+  ],
+  "performance_metrics": {
+    "model_name": "xgboost",
+    "train_accuracy": 0.9285714285714286,
+    "test_accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "cv_mean": 0.95,
+    "cv_std": 0.09999999999999999,
+    "feature_importance": {
+      "ae_engagement_score": 

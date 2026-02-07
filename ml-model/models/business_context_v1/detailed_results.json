@@ -1,0 +1,53 @@
+{
+  "RandomForest": {
+    "cv_mean": 0.8401477832512315,
+    "cv_std": 0.03573041932175091,
+    "test_accuracy": 0.8055555555555556,
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.00      0.00      0.00         6\n           1       0.83      0.97      0.89        30\n\n    accuracy                           0.81        36\n   macro avg       0.41      0.48      0.45        36\nweighted avg       0.69      0.81      0.74        36\n",
+    "confusion_matrix": [
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        29
+      ]
+    ],
+    "roc_auc": 0.5555555555555556
+  },
+  "GradientBoosting": {
+    "cv_mean": 0.7709359605911329,
+    "cv_std": 0.046210992707619976,
+    "test_accuracy": 0.6666666666666666,
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.12      0.17      0.14         6\n           1       0.82      0.77      0.79        30\n\n    accuracy                           0.67        36\n   macro avg       0.47      0.47      0.47        36\nweighted avg       0.71      0.67      0.68        36\n",
+    "confusion_matrix": [
+      [
+        1,
+        5
+      ],
+      [
+        7,
+        23
+      ]
+    ],
+    "roc_auc": 0.4722222222222222
+  },
+  "LogisticRegression": {
+    "cv_mean": 0.7009852216748768,
+    "cv_std": 0.04443338831046178,
+    "test_accuracy": 0.6666666666666666,
+    "classification_report": "              precision    recall  f1-score   support\n\n           0       0.12      0.17      0.14         6\n           1       0.82      0.77      0.79        30\n\n    accuracy                           0.67        36\n   macro avg       0.47      0.47      0.47        36\nweighted avg       0.71      0.67      0.68        36\n",
+    "confusion_matrix": [
+      [
+        1,
+        5
+      ],
+      [
+        7,
+        23
+      ]
+    ],
+    "roc_auc": 0.5555555555555555
+  }
+}
